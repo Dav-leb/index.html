@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculdade Futuro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🎓 Faculdade Futuro</h1>
+        <p>Seu futuro começa aqui!</p>
+    </header>
+
+    <main>
+        <section>
+            <img src="https://placehold.co/500x300/0b3d91/ffffff?text=Faculdade+Futuro"
+                 alt="Imagem da Faculdade Futuro">
+        </section>
+
+        <section>
+            <h2>Nossos cursos</h2>
+            <a href="#graduacao">Graduação</a>
+            <a href="#pos">Pós-graduação</a>
+            <a href="#tecnico">Ensino Técnico</a>
+        </section>
+
+        <section id="graduacao">
+            <h2>Graduação</h2>
+            <p>Prepare-se para sua profissão.</p>
+        </section>
+
+        <section id="pos">
+            <h2>Pós-graduação</h2>
+            <p>Especialize-se na sua área.</p>
+        </section>
+
+        <section id="tecnico">
+            <h2>Ensino Técnico</h2>
+            <p>Aprenda uma profissão.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Faculdade Futuro © 2026</p>
+    </footer>
+
+</body>
+</html>
